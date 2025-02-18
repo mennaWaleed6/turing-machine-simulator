@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1716048204 source:d:\term 8\switching\project\turingmachine\main.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<string>
+
